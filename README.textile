@@ -7,4 +7,4 @@ h3. Tools currently implemented include:
 * Clustering algorithms: DBSCAN; k-means clustering
 * Classification: Naive Bayes classifier; k-nearest neighbors
 * Similarity metrics: Euclidean distance; Jaccard similarity; cosine similarity; Pearson similarity; Hamming distance
-* A MapReduce workflow that calculates pairwise document similarity based on TF-IDF weights.
+* MapReduce workflow that calculates pairwise document similarity based on TF-IDF weights.

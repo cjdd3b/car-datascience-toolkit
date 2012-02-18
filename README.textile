@@ -1,0 +1,10 @@
+h1. CAR Data Science Toolkit
+
+The CAR datas science toolkit is a collection of common data science tools and algorithms, implemented and documented as simply as possible for data journalists to learn from and understand.
+
+Tools currently implemented include:
+
+* Clustering algorithms: DBSCAN; k-means clustering
+* Classification: Naive Bayes classifier; k-nearest neighbors
+* Similarity metrics: Euclidean distance; Jaccard similarity; cosine similarity; Pearson similarity; Hamming distance
+* A MapReduce workflow that calculates pairwise document similarity based on TF-IDF weights.
